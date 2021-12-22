@@ -11,7 +11,7 @@ nav {
     justify-content: space-between;
     background-color: #121212;
     text-align: center;
-    background-image: url(/images/nav-background.jpg);
+    background-image: url(./images/nav-background.jpg);
     background-repeat: no-repeat;
     background-position: center;
 }
