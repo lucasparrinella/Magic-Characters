@@ -1,7 +1,8 @@
 /*nav-bar*/
 
 body {
- background-color: #121212;
+    width: 100%;
+    background-color: #121212;
 }
 
 nav {
@@ -56,6 +57,7 @@ main div {
 
 .svg {
     margin: 0 0 0 0;
+    width: 100%;
 }
 
 /*shop*/
